@@ -1,5 +1,5 @@
-# Object Oriented Programming (CSE-284) 💻
-Welcome to the repository for CSE-284: Object Oriented Programming. This course covers the foundational principles of OOP, providing hands-on experience through coding assignments and projects.
+# Object Oriented Programming (CSE-251) 💻
+Welcome to the repository for CSE-251: Object Oriented Programming. This course covers the foundational principles of OOP, providing hands-on experience through coding assignments and projects.
 
 # 📘 Course Overview:
 The course focuses on key OOP principles:
